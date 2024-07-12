@@ -1,4 +1,4 @@
-AMAZON-CLONE
+<b>AMAZON-CLONE</b>
 <br>
 <hr>
 • Designed a replica of the Amazon homepage, focusing on user interface and user experience design using HTML/CSS.<br>
